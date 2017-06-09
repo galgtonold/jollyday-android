@@ -14,7 +14,8 @@ Afterwards all the functionality is available just as in the original library, w
         HolidayManager m = HolidayManager.getInstance(HolidayCalendar.UNITED_STATES);
         Set<Holiday> holidays = m.getHolidays(2010, "ny");
 ```
-More details can be found in the [documentation of the original project](http://jollyday.sourceforge.net/usage.html).
+A small android example project displaying a list of holidays can be found in the directory jollyday-android-example.
+More usage details can be found in the [documentation of the original project](http://jollyday.sourceforge.net/usage.html).
 
 ## ProGuard
 
