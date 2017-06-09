@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jollyday-android.iml" filepath="$PROJECT_DIR$/jollyday-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jollyday-android-example/jollyday-android-example.iml" filepath="$PROJECT_DIR$/jollyday-android-example/jollyday-android-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jollyday-android-library/jollyday-android-library.iml" filepath="$PROJECT_DIR$/jollyday-android-library/jollyday-android-library.iml" />
+    </modules>
+  </component>
+</project>
