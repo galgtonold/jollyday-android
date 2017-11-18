@@ -5,15 +5,15 @@ ext {
     bintrayName = 'jollyday-android'
 
     publishedGroupId = 'de.galgtonold.jollydayandroid'
-    libraryName = 'FBLike'
-    artifact = 'jollyday-android'
+    libraryName = 'jollyday-android'
+    artifact = 'jollyday-android-library'
 
     libraryDescription = 'Jollyday holiday library for Android'
 
     siteUrl = 'https://github.com/galgtonold/jollyday-android'
     gitUrl = 'https://github.com/galgtonold/jollyday-android.git'
 
-    libraryVersion = '0.1.7'
+    libraryVersion = '0.1.8'
 
     developerId = 'galgtonold'
     developerName = 'Philipp Gergen'
