@@ -25,6 +25,6 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.+'
-    compile 'de.galgtonold.jollydayandroid:jollyday-android:0.1.7'
+    compile 'de.galgtonold.jollydayandroid:jollyday-android:0.1.9'
     testCompile 'junit:junit:4.12'
 }

@@ -7,7 +7,7 @@ The functionality of both libraries are the same. However, some parts have been 
 
 The library can be easily included in Gradle using
 ```groovy
-compile 'de.galgtonold.jollydayandroid:jollyday-android:0.1.8'
+compile 'de.galgtonold.jollydayandroid:jollyday-android:0.1.9'
 ```
 Afterwards all the functionality is available just as in the original library, with the exception that a different package is used. For instance the set of holidays from New York in the year 2010 can be obtained in the following way.
 ```java

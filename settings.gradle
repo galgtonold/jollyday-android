@@ -1,1 +1,1 @@
-include ':jollyday-android-example', ':jollyday-android-library'
+include ':jollyday-android-example', ':jollyday-android'

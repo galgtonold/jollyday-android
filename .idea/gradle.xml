@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/jollyday-android" />
             <option value="$PROJECT_DIR$/jollyday-android-example" />
-            <option value="$PROJECT_DIR$/jollyday-android-library" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
